@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+h2{
+    color: peru;
+    text-align: center;
+}
+p{
+    color: black;
+}
+img{
+    width: 300px; 
+    height: 300px;
+}
+h3{
+    color: gray;
+    text-align: center;
+}
+table{
+    position:center;
+   margin-left: 100px;
+   margin-top: 55px;
+ }
